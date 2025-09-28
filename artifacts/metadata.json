@@ -1,0 +1,23 @@
+{
+  "train_config": {
+    "start_season": 2018,
+    "end_season": 2020,
+    "leagues": [
+      "E0"
+    ],
+    "test_last_seasons": 1,
+    "validation_frac": 0.15,
+    "random_state": 42,
+    "elo_k": 20.0,
+    "elo_home_adv": 55.0,
+    "rolling_window": 5
+  },
+  "created_at": "2025-09-28T05:13:54.212591Z",
+  "league_names": {
+    "E0": "Premier League",
+    "SP1": "LaLiga",
+    "I1": "Serie A",
+    "D1": "Bundesliga",
+    "F1": "Ligue 1"
+  }
+}
