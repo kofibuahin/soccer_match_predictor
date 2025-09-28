@@ -1,0 +1,20 @@
+{
+  "feature_cols": [
+    "elo_home_pre",
+    "elo_away_pre",
+    "elo_diff",
+    "home_ppg_last_window",
+    "home_goals_for_roll_mean",
+    "home_goals_against_roll_mean",
+    "home_shots_roll_mean",
+    "home_shots_ot_roll_mean",
+    "away_ppg_last_window",
+    "away_goals_for_roll_mean",
+    "away_goals_against_roll_mean",
+    "away_shots_roll_mean",
+    "away_shots_ot_roll_mean",
+    "imp_home",
+    "imp_draw",
+    "imp_away"
+  ]
+}
