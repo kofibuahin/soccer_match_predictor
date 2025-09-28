@@ -3,6 +3,8 @@
 A machine learning project that predicts soccer match outcomes (Home / Draw / Away) using historical match data, team form, Elo ratings, and optional betting odds.  
 Built with **Python, scikit-learn, pandas, and Streamlit**.
 
+You can find a link to the live app here: https://soccermatchpredictor-7tbkfgtqzauj8txikefkdv.streamlit.app/
+
 ---
 
 ## 🚀 Features
